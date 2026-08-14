@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Angel</a> 👋</h1>
 </div>
-<img src="/imagenes/descarga (4).gif" width="1040px" height="470px">
+<img src="/__.gif" width="1040px" height="470px">
 
 
 
